@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="c37d4f5653f3e21011bc56a0a0490e34" extends="sys_import_set_row" label="occasions_staging1" max_length="40" name="x_58872_needit_occasions_staging1" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Date" label="Date" max_length="40" name="u_date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Day type" label="Day type" max_length="40" name="u_day_type" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Employee" label="Employee" max_length="40" name="u_employee" type="string"/>
+    </element>
+</database>
